@@ -1,0 +1,13 @@
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\AppChapter4.csprojAssemblyReference.cache
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\FeedbackPage.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\AppChapter4.csproj.CoreCompileInputs.cache
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\AppChapter4.AssemblyInfoInputs.cache
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\AppChapter4.AssemblyInfo.cs
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\AppChapter4.dll
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\AppChapter4.pdb
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\bin\Debug\netstandard2.0\AppChapter4.deps.json
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\bin\Debug\netstandard2.0\AppChapter4.dll
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\bin\Debug\netstandard2.0\AppChapter4.pdb
+C:\Users\cuongdolar\source\repos\AppChapter4\AppChapter4\AppChapter4\obj\Debug\netstandard2.0\XamlC.stamp
